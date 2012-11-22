@@ -13,7 +13,7 @@ using TopicusIdeeënbank.Models;
 
 namespace TopicusIdeeënbank.Controllers
 {
-    [Authorize]asd
+    [Authorize]asdasd
     [InitializeSimpleMembership]
     public class AccountController : Controller
     {
