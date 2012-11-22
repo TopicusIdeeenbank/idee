@@ -17,8 +17,6 @@ namespace TopicusIdeeënbank.Controllers
     [InitializeSimpleMembership]
     public class AccountController : Controller
     {
-        //
-        // GET: /Account/Login
 
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
