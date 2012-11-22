@@ -168,6 +168,11 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\Idee.cs" />
+    <Compile Include="Models\IdeeenbankContext.cs" />
+    <Compile Include="Models\Kudo.cs" />
+    <Compile Include="Models\Reactie.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
